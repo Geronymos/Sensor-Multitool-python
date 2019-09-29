@@ -20,4 +20,4 @@ But for this I want to simplify the use so that even teachers and sstudent in hi
 ## Preview
 | Line chart | Pie chart |
 | ---------- | --------- |
-| ![Line chart picture](docs/Screenshot-2019-09-29-line-chart.png) | ![Pie chart picture](docs/Screenshot-2019-09-29-line-chart.png) |
+| ![Line chart picture](docs/Screenshot-2019-09-29-line-chart.png) | ![Pie chart picture](docs/Screenshot-2019-09-29-pie-chart.png) |
