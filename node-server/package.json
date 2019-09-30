@@ -1,5 +1,5 @@
 {
-  "name": "Server-Multitool",
+  "name": "server-multitool",
   "version": "1.0.0",
   "description": "The Sensor-Multitool shall be a server or portable program for scientists, schools, programming beginners. ",
   "main": "index.js",
