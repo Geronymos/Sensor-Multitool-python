@@ -7,7 +7,7 @@ var server = require('http').Server(app);
 var io = require('socket.io')(server);
 
 server.listen(8080);
-console.log('Example app listening on port 3000!');
+console.log('Example app listening on port 8080!');
 
 app.use(express.static('public'));
 

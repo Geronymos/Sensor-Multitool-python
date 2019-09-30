@@ -1,14 +1,17 @@
 {
-  "name": "server",
+  "name": "Server-Multitool",
   "version": "1.0.0",
-  "description": "server for a jugendhackt-projekt",
+  "description": "The Sensor-Multitool shall be a server or portable program for scientists, schools, programming beginners. ",
   "main": "index.js",
   "dependencies": {
-    "serialport": "^7.1.5"
+    "express": "^4.17.1",
+    "serialport": "^7.1.5",
+    "socket.io": "^2.3.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Gero Beckmann",
   "license": "ISC"
